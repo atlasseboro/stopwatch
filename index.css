@@ -1,0 +1,55 @@
+body{text-align: center;
+
+}
+
+.time{
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+    width: 70%;
+    height: 3em;
+    border: solid 0.2em;
+}
+span{
+    text-align: center;
+    background-color: white;
+    display: inline-block;
+    top: 10%;
+    width: 33%;
+    font-size: 2em;
+    position: relative;
+
+}
+
+.content{
+    text-align: center;
+    display: inline-block;
+    position:absolute;
+    background-color:black;
+    width: 20%;
+    height: 30%;
+    
+}
+
+.button1{
+    background-color:khaki;
+    position:absolute;
+    top: 40%;
+    left: 15%;
+    font-size: 70%;
+    text-align:center;
+    width: 6em;
+    height: 6em;
+    border-radius: 50%;
+}
+.button2{
+    background-color:khaki;
+    position:absolute;
+    top: 40%;
+    right: 15%;
+    font-size: 70%;
+    text-align:center;
+    width: 6em;
+    height: 6em;
+    border-radius: 50%;
+}
